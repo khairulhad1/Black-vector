@@ -1,0 +1,6 @@
+{
+  "name": "VectorBulk",
+  "description": "Simple bulk image to black and white vector converter (EPS/SVG)",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
